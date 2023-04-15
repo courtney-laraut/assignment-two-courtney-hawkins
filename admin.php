@@ -1,5 +1,3 @@
-<!-- Session Details -->
-
 <?php
 session_start();
 ?>
